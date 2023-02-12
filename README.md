@@ -1,2 +1,2 @@
-# SofrUni-Courses
+# SoftUni-Courses
 SoftUni-Fundamentals
